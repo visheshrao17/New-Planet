@@ -310,7 +310,3 @@ choiceView.addEventListener("click", (e) =>{
         });
     }
 });
-
-
-
-
